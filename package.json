@@ -1,0 +1,19 @@
+{
+  "name": "deck-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mdx-deck": "^1.0.2"
+  },
+  "dependencies": {
+    "react": "^16.4.1"
+  }
+}
